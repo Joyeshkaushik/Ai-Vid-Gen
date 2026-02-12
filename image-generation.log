@@ -1,0 +1,232 @@
+2026-02-06T19:16:12.958Z - 🚀 === Starting batch generation for 5 images ===
+2026-02-06T19:16:13.031Z - 🎨 [1] Starting generation for: A vintage biplane, Lindbergh's Spirit of St. Louis, flying o
+2026-02-06T19:16:13.034Z - 🔑 API Key exists: true
+2026-02-06T19:16:13.036Z - ☁️ Cloudinary config: true
+2026-02-06T19:16:13.393Z - 📡 Segmind response status: 406
+2026-02-06T19:16:13.395Z - ❌ Segmind error: {
+  "error": "Insufficient credits. You have 0.0 credits, but need at least 0.01 credits to proceed. Recharge [here](https://cloud.segmind.com/billing?type=TOPUP)"
+}
+
+2026-02-06T19:16:13.400Z - ❌ [1] ERROR: Segmind error: 406 - {
+  "error": "Insufficient credits. You have 0.0 credits, but need at least 0.01 credits to proceed. Recharge [here](https://cloud.segmind.com/billing?type=TOPUP)"
+}
+
+2026-02-06T19:16:13.403Z - ❌ Stack: Error: Segmind error: 406 - {
+  "error": "Insufficient credits. You have 0.0 credits, but need at least 0.01 credits to proceed. Recharge [here](https://cloud.segmind.com/billing?type=TOPUP)"
+}
+
+    at generateImage (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\[root-of-the-server]__90c96674._.js:486:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async generateMultipleImages (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\[root-of-the-server]__90c96674._.js:516:21)
+    at async C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\[root-of-the-server]__90c96674._.js:659:27
+    at async goIntervalTiming (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:2155:9)
+    at async V1InngestExecution.tryExecuteStep (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:5462:26)
+    at async steps-found (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:5358:36)
+    at async V1InngestExecution._start (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:5120:32)
+    at async InngestCommHandler.handleAction (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:7194:36)
+    at async ServerTiming.wrap (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:2235:20)
+    at async ServerTiming.wrap (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:2235:20)
+    at async AppRouteRouteModule.do (C:\nextreactproject\ai-short-generator\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js:5:37866)
+    at async AppRouteRouteModule.handle (C:\nextreactproject\ai-short-generator\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js:5:45156)
+    at async responseGenerator (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_next_dist_97885ce4._.js:9262:38)
+    at async AppRouteRouteModule.handleResponse (C:\nextreactproject\ai-short-generator\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js:1:187713)
+    at async handleResponse (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_next_dist_97885ce4._.js:9325:32)
+    at async Module.handler (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_next_dist_97885ce4._.js:9378:13)
+    at async DevServer.renderToResponseWithComponentsImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:1422:9)
+    at async DevServer.renderPageComponent (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:1474:24)
+    at async DevServer.renderToResponseImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:1524:32)
+    at async DevServer.pipeImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:1018:25)
+    at async NextNodeServer.handleCatchallRenderRequest (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\next-server.js:395:17)
+    at async DevServer.handleRequestImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:909:17)
+    at async C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\dev\next-dev-server.js:387:20
+    at async Span.traceAsyncFn (C:\nextreactproject\ai-short-generator\node_modules\next\dist\trace\trace.js:157:20)
+    at async DevServer.handleRequest (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\dev\next-dev-server.js:383:24)
+    at async invokeRender (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\lib\router-server.js:248:21)
+    at async handleRequest (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\lib\router-server.js:447:24)
+    at async requestHandlerImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\lib\router-server.js:496:13)
+    at async Server.requestListener (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\lib\start-server.js:226:13)
+2026-02-06T19:16:14.413Z - 🎨 [2] Starting generation for: Lindbergh's Spirit of St. Louis touching down safely at Le B
+2026-02-06T19:16:14.418Z - 🔑 API Key exists: true
+2026-02-06T19:16:14.422Z - ☁️ Cloudinary config: true
+2026-02-06T19:16:14.749Z - 📡 Segmind response status: 406
+2026-02-06T19:16:14.752Z - ❌ Segmind error: {
+  "error": "Insufficient credits. You have 0.0 credits, but need at least 0.01 credits to proceed. Recharge [here](https://cloud.segmind.com/billing?type=TOPUP)"
+}
+
+2026-02-06T19:16:14.753Z - ❌ [2] ERROR: Segmind error: 406 - {
+  "error": "Insufficient credits. You have 0.0 credits, but need at least 0.01 credits to proceed. Recharge [here](https://cloud.segmind.com/billing?type=TOPUP)"
+}
+
+2026-02-06T19:16:14.755Z - ❌ Stack: Error: Segmind error: 406 - {
+  "error": "Insufficient credits. You have 0.0 credits, but need at least 0.01 credits to proceed. Recharge [here](https://cloud.segmind.com/billing?type=TOPUP)"
+}
+
+    at generateImage (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\[root-of-the-server]__90c96674._.js:486:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async generateMultipleImages (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\[root-of-the-server]__90c96674._.js:516:21)
+    at async C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\[root-of-the-server]__90c96674._.js:659:27
+    at async goIntervalTiming (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:2155:9)
+    at async V1InngestExecution.tryExecuteStep (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:5462:26)
+    at async steps-found (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:5358:36)
+    at async V1InngestExecution._start (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:5120:32)
+    at async InngestCommHandler.handleAction (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:7194:36)
+    at async ServerTiming.wrap (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:2235:20)
+    at async ServerTiming.wrap (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:2235:20)
+    at async AppRouteRouteModule.do (C:\nextreactproject\ai-short-generator\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js:5:37866)
+    at async AppRouteRouteModule.handle (C:\nextreactproject\ai-short-generator\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js:5:45156)
+    at async responseGenerator (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_next_dist_97885ce4._.js:9262:38)
+    at async AppRouteRouteModule.handleResponse (C:\nextreactproject\ai-short-generator\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js:1:187713)
+    at async handleResponse (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_next_dist_97885ce4._.js:9325:32)
+    at async Module.handler (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_next_dist_97885ce4._.js:9378:13)
+    at async DevServer.renderToResponseWithComponentsImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:1422:9)
+    at async DevServer.renderPageComponent (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:1474:24)
+    at async DevServer.renderToResponseImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:1524:32)
+    at async DevServer.pipeImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:1018:25)
+    at async NextNodeServer.handleCatchallRenderRequest (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\next-server.js:395:17)
+    at async DevServer.handleRequestImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:909:17)
+    at async C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\dev\next-dev-server.js:387:20
+    at async Span.traceAsyncFn (C:\nextreactproject\ai-short-generator\node_modules\next\dist\trace\trace.js:157:20)
+    at async DevServer.handleRequest (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\dev\next-dev-server.js:383:24)
+    at async invokeRender (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\lib\router-server.js:248:21)
+    at async handleRequest (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\lib\router-server.js:447:24)
+    at async requestHandlerImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\lib\router-server.js:496:13)
+    at async Server.requestListener (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\lib\start-server.js:226:13)
+2026-02-06T19:16:15.761Z - 🎨 [3] Starting generation for: Lindbergh standing in front of his plane, a huge smile on hi
+2026-02-06T19:16:15.763Z - 🔑 API Key exists: true
+2026-02-06T19:16:15.767Z - ☁️ Cloudinary config: true
+2026-02-06T19:16:15.863Z - 📡 Segmind response status: 406
+2026-02-06T19:16:15.866Z - ❌ Segmind error: {
+  "error": "Insufficient credits. You have 0.0 credits, but need at least 0.01 credits to proceed. Recharge [here](https://cloud.segmind.com/billing?type=TOPUP)"
+}
+
+2026-02-06T19:16:15.868Z - ❌ [3] ERROR: Segmind error: 406 - {
+  "error": "Insufficient credits. You have 0.0 credits, but need at least 0.01 credits to proceed. Recharge [here](https://cloud.segmind.com/billing?type=TOPUP)"
+}
+
+2026-02-06T19:16:15.872Z - ❌ Stack: Error: Segmind error: 406 - {
+  "error": "Insufficient credits. You have 0.0 credits, but need at least 0.01 credits to proceed. Recharge [here](https://cloud.segmind.com/billing?type=TOPUP)"
+}
+
+    at generateImage (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\[root-of-the-server]__90c96674._.js:486:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async generateMultipleImages (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\[root-of-the-server]__90c96674._.js:516:21)
+    at async C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\[root-of-the-server]__90c96674._.js:659:27
+    at async goIntervalTiming (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:2155:9)
+    at async V1InngestExecution.tryExecuteStep (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:5462:26)
+    at async steps-found (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:5358:36)
+    at async V1InngestExecution._start (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:5120:32)
+    at async InngestCommHandler.handleAction (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:7194:36)
+    at async ServerTiming.wrap (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:2235:20)
+    at async ServerTiming.wrap (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:2235:20)
+    at async AppRouteRouteModule.do (C:\nextreactproject\ai-short-generator\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js:5:37866)
+    at async AppRouteRouteModule.handle (C:\nextreactproject\ai-short-generator\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js:5:45156)
+    at async responseGenerator (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_next_dist_97885ce4._.js:9262:38)
+    at async AppRouteRouteModule.handleResponse (C:\nextreactproject\ai-short-generator\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js:1:187713)
+    at async handleResponse (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_next_dist_97885ce4._.js:9325:32)
+    at async Module.handler (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_next_dist_97885ce4._.js:9378:13)
+    at async DevServer.renderToResponseWithComponentsImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:1422:9)
+    at async DevServer.renderPageComponent (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:1474:24)
+    at async DevServer.renderToResponseImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:1524:32)
+    at async DevServer.pipeImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:1018:25)
+    at async NextNodeServer.handleCatchallRenderRequest (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\next-server.js:395:17)
+    at async DevServer.handleRequestImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:909:17)
+    at async C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\dev\next-dev-server.js:387:20
+    at async Span.traceAsyncFn (C:\nextreactproject\ai-short-generator\node_modules\next\dist\trace\trace.js:157:20)
+    at async DevServer.handleRequest (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\dev\next-dev-server.js:383:24)
+    at async invokeRender (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\lib\router-server.js:248:21)
+    at async handleRequest (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\lib\router-server.js:447:24)
+    at async requestHandlerImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\lib\router-server.js:496:13)
+    at async Server.requestListener (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\lib\start-server.js:226:13)
+2026-02-06T19:16:16.878Z - 🎨 [4] Starting generation for: A close-up shot of Lindbergh's face, his eyes filled with ex
+2026-02-06T19:16:16.881Z - 🔑 API Key exists: true
+2026-02-06T19:16:16.884Z - ☁️ Cloudinary config: true
+2026-02-06T19:16:16.976Z - 📡 Segmind response status: 406
+2026-02-06T19:16:16.981Z - ❌ Segmind error: {
+  "error": "Insufficient credits. You have 0.0 credits, but need at least 0.01 credits to proceed. Recharge [here](https://cloud.segmind.com/billing?type=TOPUP)"
+}
+
+2026-02-06T19:16:16.984Z - ❌ [4] ERROR: Segmind error: 406 - {
+  "error": "Insufficient credits. You have 0.0 credits, but need at least 0.01 credits to proceed. Recharge [here](https://cloud.segmind.com/billing?type=TOPUP)"
+}
+
+2026-02-06T19:16:16.988Z - ❌ Stack: Error: Segmind error: 406 - {
+  "error": "Insufficient credits. You have 0.0 credits, but need at least 0.01 credits to proceed. Recharge [here](https://cloud.segmind.com/billing?type=TOPUP)"
+}
+
+    at generateImage (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\[root-of-the-server]__90c96674._.js:486:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async generateMultipleImages (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\[root-of-the-server]__90c96674._.js:516:21)
+    at async C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\[root-of-the-server]__90c96674._.js:659:27
+    at async goIntervalTiming (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:2155:9)
+    at async V1InngestExecution.tryExecuteStep (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:5462:26)
+    at async steps-found (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:5358:36)
+    at async V1InngestExecution._start (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:5120:32)
+    at async InngestCommHandler.handleAction (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:7194:36)
+    at async ServerTiming.wrap (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:2235:20)
+    at async ServerTiming.wrap (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:2235:20)
+    at async AppRouteRouteModule.do (C:\nextreactproject\ai-short-generator\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js:5:37866)
+    at async AppRouteRouteModule.handle (C:\nextreactproject\ai-short-generator\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js:5:45156)
+    at async responseGenerator (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_next_dist_97885ce4._.js:9262:38)
+    at async AppRouteRouteModule.handleResponse (C:\nextreactproject\ai-short-generator\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js:1:187713)
+    at async handleResponse (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_next_dist_97885ce4._.js:9325:32)
+    at async Module.handler (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_next_dist_97885ce4._.js:9378:13)
+    at async DevServer.renderToResponseWithComponentsImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:1422:9)
+    at async DevServer.renderPageComponent (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:1474:24)
+    at async DevServer.renderToResponseImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:1524:32)
+    at async DevServer.pipeImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:1018:25)
+    at async NextNodeServer.handleCatchallRenderRequest (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\next-server.js:395:17)
+    at async DevServer.handleRequestImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:909:17)
+    at async C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\dev\next-dev-server.js:387:20
+    at async Span.traceAsyncFn (C:\nextreactproject\ai-short-generator\node_modules\next\dist\trace\trace.js:157:20)
+    at async DevServer.handleRequest (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\dev\next-dev-server.js:383:24)
+    at async invokeRender (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\lib\router-server.js:248:21)
+    at async handleRequest (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\lib\router-server.js:447:24)
+    at async requestHandlerImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\lib\router-server.js:496:13)
+    at async Server.requestListener (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\lib\start-server.js:226:13)
+2026-02-06T19:16:17.995Z - 🎨 [5] Starting generation for: A wide shot of the crowd, with people holding up signs and b
+2026-02-06T19:16:17.999Z - 🔑 API Key exists: true
+2026-02-06T19:16:18.000Z - ☁️ Cloudinary config: true
+2026-02-06T19:16:18.098Z - 📡 Segmind response status: 406
+2026-02-06T19:16:18.101Z - ❌ Segmind error: {
+  "error": "Insufficient credits. You have 0.0 credits, but need at least 0.01 credits to proceed. Recharge [here](https://cloud.segmind.com/billing?type=TOPUP)"
+}
+
+2026-02-06T19:16:18.106Z - ❌ [5] ERROR: Segmind error: 406 - {
+  "error": "Insufficient credits. You have 0.0 credits, but need at least 0.01 credits to proceed. Recharge [here](https://cloud.segmind.com/billing?type=TOPUP)"
+}
+
+2026-02-06T19:16:18.109Z - ❌ Stack: Error: Segmind error: 406 - {
+  "error": "Insufficient credits. You have 0.0 credits, but need at least 0.01 credits to proceed. Recharge [here](https://cloud.segmind.com/billing?type=TOPUP)"
+}
+
+    at generateImage (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\[root-of-the-server]__90c96674._.js:486:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async generateMultipleImages (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\[root-of-the-server]__90c96674._.js:516:21)
+    at async C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\[root-of-the-server]__90c96674._.js:659:27
+    at async goIntervalTiming (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:2155:9)
+    at async V1InngestExecution.tryExecuteStep (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:5462:26)
+    at async steps-found (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:5358:36)
+    at async V1InngestExecution._start (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:5120:32)
+    at async InngestCommHandler.handleAction (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:7194:36)
+    at async ServerTiming.wrap (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:2235:20)
+    at async ServerTiming.wrap (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_inngest_5b6ea9ce._.js:2235:20)
+    at async AppRouteRouteModule.do (C:\nextreactproject\ai-short-generator\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js:5:37866)
+    at async AppRouteRouteModule.handle (C:\nextreactproject\ai-short-generator\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js:5:45156)
+    at async responseGenerator (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_next_dist_97885ce4._.js:9262:38)
+    at async AppRouteRouteModule.handleResponse (C:\nextreactproject\ai-short-generator\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js:1:187713)
+    at async handleResponse (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_next_dist_97885ce4._.js:9325:32)
+    at async Module.handler (C:\nextreactproject\ai-short-generator\.next\dev\server\chunks\node_modules_next_dist_97885ce4._.js:9378:13)
+    at async DevServer.renderToResponseWithComponentsImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:1422:9)
+    at async DevServer.renderPageComponent (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:1474:24)
+    at async DevServer.renderToResponseImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:1524:32)
+    at async DevServer.pipeImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:1018:25)
+    at async NextNodeServer.handleCatchallRenderRequest (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\next-server.js:395:17)
+    at async DevServer.handleRequestImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\base-server.js:909:17)
+    at async C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\dev\next-dev-server.js:387:20
+    at async Span.traceAsyncFn (C:\nextreactproject\ai-short-generator\node_modules\next\dist\trace\trace.js:157:20)
+    at async DevServer.handleRequest (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\dev\next-dev-server.js:383:24)
+    at async invokeRender (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\lib\router-server.js:248:21)
+    at async handleRequest (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\lib\router-server.js:447:24)
+    at async requestHandlerImpl (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\lib\router-server.js:496:13)
+    at async Server.requestListener (C:\nextreactproject\ai-short-generator\node_modules\next\dist\server\lib\start-server.js:226:13)
+2026-02-06T19:16:18.113Z - ✅ === Batch complete: 0/5 succeeded ===
