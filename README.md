@@ -8,25 +8,10 @@
 
 > A powerful AI-powered SaaS application for automating YouTube Shorts creation with Next.js, React, Tailwind CSS, and Convex.
 
-**Live Demo:** [aishortsvid.com](https://www.aishortsvid.com) | **Course Platform:** [aigurulab.tech](https://www.aigurulab.tech)
+**Live Demo:** [aishortsvid.com]((https://ai-vid-gen-one.vercel.app/))
 
-![AI Short Video Generator](https://img.shields.io/badge/Status-Production-success)
 
-## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [API Documentation](#api-documentation)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## 🌟 Overview
 
@@ -108,12 +93,6 @@ Before you begin, ensure you have the following installed:
 - npm or yarn
 - Git
 
-You'll also need accounts for:
-
-- [Convex](https://convex.link/tubeguruji)
-- [Inngest](https://innge.st/yt-tg2)
-- PayPal Developer Account
-- AI API keys (for image, audio, and caption generation)
 
 ## 🚀 Installation
 
@@ -376,22 +355,7 @@ Contributions are welcome! Please follow these steps:
 - Add comments for complex logic
 - Update documentation as needed
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**TubeGuruji**
-
-- Website: [tubeguruji.com](https://tubeguruji.com)
-- YouTube: [@tubeguruji](https://youtube.com/@tubeguruji)
-- Instagram: [@tubeguruji](https://instagram.com/tubeguruji)
-- Discord: [Join Community](https://discord.gg/tubeguruji)
-
-## 📞 Contact
-
-For business inquiries: admin@tubeguruji.com
 
 ## 🙏 Acknowledgments
 
@@ -402,12 +366,7 @@ For business inquiries: admin@tubeguruji.com
 - [Tailwind CSS](https://tailwindcss.com/) - Styling
 - [PayPal](https://developer.paypal.com/) - Payment processing
 
-## 📚 Resources
 
-- **Free Resources**: [Course Materials](https://dcmk.short.gy/ai-youtube-shor...)
-- **Source Code**: [GitHub Repository](https://dcmk.short.gy/ai-youtube-shor...)
-- **Active Lessons**: [TubeGuruji Pro](https://www.tubeguruji.com/course-pre...)
-- **Eraser Doc**: [Project Documentation](https://app.eraser.io/workspace/EeirN...)
 
 ## ⭐ Support
 
@@ -415,6 +374,6 @@ If you find this project helpful, please give it a star ⭐ on GitHub!
 
 ---
 
-**Built with ❤️ by TubeGuruji**
+**Built with ❤️ by Joyesh Kaushik**
 
-*Learn to build cutting-edge AI applications - Join TubeGuruji Pro!*
+
