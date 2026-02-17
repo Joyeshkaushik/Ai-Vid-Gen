@@ -86,9 +86,16 @@ AI Short Video Generator is a full-stack SaaS application that automates the cre
 - AI Prompt Engineering
 ## Images and Live Demo
 <img width="1915" height="1061" alt="Screenshot%2026-02-13%191311" src="https://github.com/user-attachments/assets/5d8f3699-dcd0-4d00-9580-c499a034006d" />
+
+<img width="1898" height="928" alt="Screenshot 2026-02-13 192831" src="https://github.com/user-attachments/assets/dce1b184-d575-4884-a30a-3fe38453350b" />
+
+<img width="1919" height="954" alt="Screenshot 2026-02-07 143947" src="https://github.com/user-attachments/assets/c9d60763-db49-402d-b77b-5c3c9289c8bd" />
+
+
 ## 📦 Prerequisites
 
 Before you begin, ensure you have the following installed:
+
 
 - Node.js 18.x or higher
 - 
