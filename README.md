@@ -91,8 +91,13 @@ AI Short Video Generator is a full-stack SaaS application that automates the cre
 
 <img width="1919" height="954" alt="Screenshot 2026-02-07 143947" src="https://github.com/user-attachments/assets/c9d60763-db49-402d-b77b-5c3c9289c8bd" />
 
-
+## Videos
+https://github.com/user-attachments/assets/e1197768-027c-4364-a35e-e1cb86600c8b
 ## 📦 Prerequisites
+
+
+
+
 
 Before you begin, ensure you have the following installed:
 
