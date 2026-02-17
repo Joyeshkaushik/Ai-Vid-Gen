@@ -85,7 +85,7 @@ AI Short Video Generator is a full-stack SaaS application that automates the cre
 - AI Audio Generation
 - AI Prompt Engineering
 ## Images and Live Demo
-<img src="Screenshot 2026-02-13 191311" alt="Alt text" width="600"/>
+<img src="Screenshot%2026-02-13%191311" alt="Alt text" width="600"/>
 ## 📦 Prerequisites
 
 Before you begin, ensure you have the following installed:
