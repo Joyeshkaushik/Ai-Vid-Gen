@@ -8,7 +8,7 @@
 
 > A powerful AI-powered SaaS application for automating YouTube Shorts creation with Next.js, React, Tailwind CSS, and Convex.
 
-**Live Demo:** [aishortsvid.com]((https://ai-vid-gen-one.vercel.app/))
+
 
 
 
@@ -84,7 +84,8 @@ AI Short Video Generator is a full-stack SaaS application that automates the cre
 - AI Image Generation
 - AI Audio Generation
 - AI Prompt Engineering
-
+## Images and Live Demo
+<img src="Screenshot 2026-02-13 191311" alt="Alt text" width="600"/>
 ## 📦 Prerequisites
 
 Before you begin, ensure you have the following installed:
