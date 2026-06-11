@@ -33,8 +33,8 @@ AI Short Video Generator is a full-stack SaaS application that automates the cre
 ### Core Functionality
 
 - **AI Video Generation**: Create short videos automatically using AI
-- **Caption Generation**: AI-powered subtitle and caption creation
-- **Image Prompt Generation**: Generate creative image prompts using AI
+- **Caption Generation**: AI-powered subtitle and caption creation using Deepgram
+- **Image Prompt Generation**: Generate creative image prompts using GROQ AI
 - **AI Image Creation**: Create custom images for your videos
 - **Audio Generation**: Generate MP3 audio files for video content
 - **Video Rendering**: Professional video rendering with Remotion
